@@ -119,6 +119,9 @@ export default Vue.extend({
     msg: String
   }
 });
+
+const awesome = () => true;
+awesome();
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
